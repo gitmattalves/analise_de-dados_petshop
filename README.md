@@ -1,6 +1,6 @@
 # Dashboard Projeto Análise de Dados de Pet Shop
 
-O projeto foi desenvilvido durante as aulas do curso de Microsoft Power BI Para Business Intelligence da Alura. E tem por objetivo apresentar algumas informações de um Pet Shop.
+O projeto foi desenvilvido durante as aulas do curso de Power BI da Alura e tem por objetivo apresentar algumas informações de um Pet Shop.
 
 | :rocket: Vitrine.Dev |    |
 | -------------  | --- |
