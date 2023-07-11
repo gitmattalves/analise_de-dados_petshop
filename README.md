@@ -1,0 +1,14 @@
+# Dashboard Projeto Análise Dados de Pet Shop
+
+O projeto foi desenvilvido durante as aulas do curso de Microsoft Power BI Para Business Intelligence da Alura. E tem por objetivo apresentar algumas informações de um Pet Shop.
+
+| :rocket: Vitrine.Dev |    |
+| -------------  | --- |
+| :sparkles: Nome        | **Análise Dados de Pet Shop**
+| :computer: Tecnologias | Power BI (tecnologias utilizadas)
+| :globe_with_meridians: URL         | 
+| :bar_chart: Demais Projetos     | https://l1nk.dev/portfolio-mateus-alves-dos-santos
+
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/postrh_blog-768x480.png#vitrinedev)
