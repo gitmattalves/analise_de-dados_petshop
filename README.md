@@ -11,4 +11,4 @@ O projeto foi desenvilvido durante as aulas do curso de Microsoft Power BI Para 
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/postrh_blog-768x480.png#vitrinedev)
+![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/alurapet.avif#vitrinedev)
