@@ -36,11 +36,11 @@ Os primeiros dados apresentados, foram criados através dos cartões de visualiz
 
 #### Métricas mais complexas 
 Posteriormente, foi gerada a apresentação de dados mais complexos, com a junção entre vários dados para obtação das métricas desejadas.
-Como funcionários por cargos, porcentagem dos funcionários que estavam disponíveis para fazer hora extra e do envolvimento deles com o trabalho.
 
-![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/dash_completo.png#vitrinedev)
+
 
 #### Dashboard Completo
 
-Para finalizar, inseri a segmentção de dados para podermos realizar o filtro pela idade ou faixa de idade desejada.
-Após as configurações finais e formatações, concluímos o visual do nosso relatório de Análise de Dados de RH.
+Para finalizar, inseri a segmentção de dados para podermos realizar o filtro pela data ou marca.
+
+![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/dash_completo.png#vitrinedev)
