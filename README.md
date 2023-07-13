@@ -12,3 +12,35 @@ O projeto foi desenvilvido durante as aulas do curso de Power BI da Alura e tem 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/alurapet.avif#vitrinedev)
+
+## Detalhes do projeto
+
+O projeto tem por objetivo apresentar algumas informações de RH de uma empresa fictícia, como a quantidade de funcionários, quantidade e porcentagem por gênero, total por função, salário médio dentre outras métricas.
+
+#### Tabela de Medidas
+Primeiramente foi criada uma nova tabela de medidas para facilitar a criação do dashbord e dar mais opções de cálculos para futuras análises. As nova medidas foram criadas utilizando as funções Dax.
+
+![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/Tabelas_de_medidas.png#vitrinedev)
+
+![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/Relacionamentos.png#vitrinedev)
+
+#### Primeiras Métricas
+Os primeiros dados apresentados, foram criados através dos cartões de visualização, esse modelo foi o escolhido por trazer infromações simples, com valores únicos em cada cartão.
+
+### Recurso de Pesquisas ###
+
+
+![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/pesquisas.png#vitrinedev)
+
+![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/pesquisa%20de%20itens.png#vitrinedev)
+
+#### Métricas mais complexas 
+Posteriormente, foi gerada a apresentação de dados mais complexos, com a junção entre vários dados para obtação das métricas desejadas.
+Como funcionários por cargos, porcentagem dos funcionários que estavam disponíveis para fazer hora extra e do envolvimento deles com o trabalho.
+
+![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/dash_completo.png#vitrinedev)
+
+#### Dashboard Completo
+
+Para finalizar, inseri a segmentção de dados para podermos realizar o filtro pela idade ou faixa de idade desejada.
+Após as configurações finais e formatações, concluímos o visual do nosso relatório de Análise de Dados de RH.
