@@ -18,7 +18,7 @@ O projeto foi desenvilvido durante as aulas do curso de Power BI da Alura e tem 
 O projeto tem por objetivo apresentar algumas informações sobre o Petshop , como o faturamento total, faturamento por marca, produtos disponivei na loja,  qual é o gênero que mais compra cara determinado produto, a média de pets que cada consumidor e também qual bairro tem mais clientes e tem o maior faturamento.
 
 #### Tratamento dos dados e Tabela de Medidas
-Primeiramente foi realizado o tratamento dos dados e ajustes nas tabelas para ocoreero o correto relacionamento entre as tabelas.
+Primeiramente foi realizado o tratamento dos dados e ajustes nas tabelas para o correto relacionamento entre as elas.
 
 ![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/Relacionamentos.png#vitrinedev)
 
