@@ -14,7 +14,7 @@ O projeto foi desenvolvido durante as aulas do curso de Power BI da Alura e tem 
 
 ## Detalhes do projeto
 
-O projeto tem por objetivo apresentar algumas informações sobre um Petshop, como o **faturamento total**, **faturamento por marca**, **produtos disponíveis na loja?**, qual o **gênero que mais compra cada determinado produto**, a **média de pets de cada consumidor** e verificar também **qual o bairro possui mais clientes** e o **maior faturamento.**
+O projeto tem por objetivo apresentar algumas informações sobre um Petshop, como o **faturamento total,** **faturamento por marca,** **produtos disponíveis na loja,** qual o **gênero que mais compra cada determinado produto,** a **média de pets de cada consumidor** e verificar também **qual o bairro possui mais clientes** e o **maior faturamento.**
 
 #### Tratamento dos dados e Tabela de Medidas
 Primeiramente foi realizado o tratamento dos dados e ajustes nas tabelas para o correto relacionamento entre as elas.
@@ -31,7 +31,7 @@ Os primeiros dados apresentados, foram criados através dos cartões de visualiz
 Posteriormente, foi gerada a apresentação de dados mais complexos, com a junção entre vários dados para a obtação das métricas desejadas.
 
 #### Recurso de Pesquisas 
-Nestas análises, incluímos um novo item para apresentação dos dados. O recurso *text filter*, que nos possibilita realizar pesquisas por nome dos produtos, incluímos também o recurso *image grid*, no qual podemos apresentar a imagem dos itens vendidos na loja.
+Nestas análises, incluímos um novo item para apresentação dos dados. O recurso *text filter,* que nos possibilita realizar pesquisas por nome dos produtos, incluímos também o recurso *image grid,* no qual podemos apresentar a imagem dos itens vendidos na loja.
 
 ![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/pesquisas.png#vitrinedev)
 
