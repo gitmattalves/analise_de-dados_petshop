@@ -1,5 +1,5 @@
 # Dashboard Projeto Análise de Dados de Pet Shop
-* text=auto
+git config --global core.autocrlf false
 
 O projeto foi desenvolvido durante as aulas do curso de Power BI da Alura e tem por objetivo apresentar algumas informações de um Pet Shop.
 
