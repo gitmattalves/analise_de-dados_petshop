@@ -1,5 +1,5 @@
 # Dashboard Projeto Análise de Dados de Pet Shop
-git config --global core.autocrlf false
+
 
 O projeto foi desenvolvido durante as aulas do curso de Power BI da Alura e tem por objetivo apresentar algumas informações de um Pet Shop.
 
@@ -13,6 +13,7 @@ O projeto foi desenvolvido durante as aulas do curso de Power BI da Alura e tem 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/alurapet.avif#vitrinedev)
 
+
 ## Detalhes do projeto
 
 O projeto tem por objetivo apresentar algumas informações sobre um Petshop, como o **faturamento total,** **faturamento por marca,** **produtos disponíveis na loja,** qual o **gênero que mais compra cada determinado produto,** a **média de pets de cada consumidor** e verificar também **qual o bairro possui mais clientes** e o **maior faturamento.**
@@ -22,9 +23,11 @@ Primeiramente foi realizado o tratamento dos dados e ajustes nas tabelas para o 
 
 ![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/Relacionamentos.png#vitrinedev)
 
+
 Posteriormente, foram criadas algumas medidas para facilitar a criação do dashbord e dar mais opções de cálculos para futuras análises. As novas medidas foram criadas utilizando as funções Dax.
 
 ![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/Tabelas_de_medidas.png#vitrinedev)
+
 
 
 #### Primeiras Métricas
@@ -35,6 +38,7 @@ Posteriormente, foi gerada a apresentação de dados mais complexos, com a junç
 Nestas análises, incluímos um novo item para apresentação dos dados. O recurso *text filter,* que nos possibilita realizar pesquisas por nome dos produtos, incluímos também o recurso *image grid,* no qual podemos apresentar a imagem dos itens vendidos na loja.
 
 ![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/pesquisas.png#vitrinedev)
+
 
 ![](https://github.com/gitmattalves/analise_de-dados_petshop/blob/main/pesquisa%20de%20itens.png#vitrinedev)
 
